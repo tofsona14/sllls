@@ -1,0 +1,13 @@
+body {
+    font-size: medium;
+}
+.pirveli {
+    background-color: bisque;
+    text-align: center;
+}
+.meoresPirveli {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left: 350px;
+}
